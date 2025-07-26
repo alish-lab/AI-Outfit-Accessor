@@ -56,5 +56,12 @@ This project is a simple web app that generates a fashion mood board by matching
 ## Note
 The dataset is not included in this repository due to size limitations (>25MB). Please add your own clothing images following the structure described above.
 
-## License
-MIT 
+# Sample Output Screenshot
+![moodboard_286](https://github.com/user-attachments/assets/e0707c6f-30c6-4c73-b973-b019ff1272f1)
+![moodboard_825](https://github.com/user-attachments/assets/da8848ce-33b9-4cc2-a0fa-44dec3daa08d)
+![moodboard_987](https://github.com/user-attachments/assets/00926080-16f5-4752-82a7-7a22cc7e51f2)
+![moodboard_input_4c61ae13e7c5492c925dbc8d2159ccd2](https://github.com/user-attachments/assets/c71cba87-67cf-471f-b36d-0f59f9a42ab2)
+![moodboard_IMG_7168](https://github.com/user-attachments/assets/0605e429-fd29-4aef-9dae-ae4718d26d9d)
+
+
+
